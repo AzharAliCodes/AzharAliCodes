@@ -26,29 +26,63 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 Pinned Projects
 
 <p align="center">
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AzharAliCodes&show_icons=true&theme=github_dark&hide_border=true" alt="Azharuddin's GitHub Stats" width="48%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAliCodes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/AzharAliCodes/your-best-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzharAliCodes&repo=your-best-repo&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/AzharAliCodes/another-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzharAliCodes&repo=another-repo&theme=github_dark&hide_border=true" /></a>
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzharAliCodes&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzharAliCodes&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AzharAliCodes&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+---
+
+## 💬 Dynamic Quote
+
 <p align="center">
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/AzharAliCodes/AzharAliCodes/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="98%" />
-</p> 
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <!-- Add more as needed -->
+</p>
+
+---
+
+## ⏱️ Wakatime Stats (Coding Activity)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=github_dark&hide_border=true" alt="Wakatime Stats" />
+</p>
+
+---
+
+## 🗺️ Profile Visitors Map
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="24" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=AzharAliCodes&label=VISITORS&countColor=%23263759&style=flat&labelStyle=upper" />
+</p>
+
+<!-- Optional: Spotify Now Playing Widget
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+</p>
+-->
 
 ---
 
