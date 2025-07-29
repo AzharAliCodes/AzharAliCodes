@@ -26,6 +26,48 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <!-- Add more as needed -->
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🚩 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 📚 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="DSA" />
+</p>
+
+---
+
 ## 🚀 Pinned Projects
 
 <p align="center">
@@ -43,102 +85,41 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
-## 💬 Dynamic Quote
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote" />
+  <img src="https://komarev.com/ghpvc/?username=AzharAliCodes&style=for-the-badge&color=1A1B27" alt="Profile Views" />
 </p>
 
----
-
-## 🌐 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzharAliCodes&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Azharuddin's+GitHub+Stats" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAliCodes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <!-- Add more as needed -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzharAliCodes&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzharAliCodes&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="98%" />
 </p>
 
 ---
 
 ## ⏱️ Wakatime Stats (Coding Activity)
 
+<!-- Replace 'your_wakatime_username' with your actual Wakatime username -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=github_dark&hide_border=true" alt="Wakatime Stats" />
 </p>
 
 ---
 
-## 🗺️ Profile Visitors Map
+## 💬 Dynamic Quote
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="24" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=AzharAliCodes&label=VISITORS&countColor=%23263759&style=flat&labelStyle=upper" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dynamic Quote" />
 </p>
-
-<!-- Optional: Spotify Now Playing Widget
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-</p>
--->
-
----
-
-## 🛠️ Skills & Tools
-
-### 🚩 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 📚 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="DSA" />
-</p> 
-
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=AzharAliCodes&style=for-the-badge&color=1A1B27" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AzharAliCodes&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Azharuddin's+GitHub+Stats" alt="GitHub Stats" width="48%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzharAliCodes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzharAliCodes&theme=github-dark&hide_border=true" alt="GitHub Streak" width="60%" />
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzharAliCodes&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" width="98%" />
-</p> 
 
 ---
 
