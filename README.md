@@ -72,8 +72,6 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
-## 🚀 Pinned Projects
-
 <!-- 
 ## 🚀 Pinned Projects
 
