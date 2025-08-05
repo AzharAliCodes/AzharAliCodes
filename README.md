@@ -1,12 +1,12 @@
 <!-- Hero Section Start -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A1B27&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Azharuddin+Ali;BCA+Student;Aspiring+AI%2FML+Engineer;Java+Developer;Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Azharuddin+Ali;BCA+Student;MERN+Stack+Developer;Interested+in+AI%2FML;Learning+DSA+in+Java;Python+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <b>Welcome to my GitHub profile! 🚀<br>
-  I'm passionate about technology, coding, and continuous learning.<br>
-  Let's build something amazing together! 🌟</b>
+  I'm a BCA student with a passion for technology, coding, and continuous learning.<br>
+  Let’s build and innovate together! 🌟</b>
 </p>
 <!-- Hero Section End -->
 
