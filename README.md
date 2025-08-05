@@ -111,11 +111,10 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
-## ⏱️ Wakatime Stats (Coding Activity)
+## ⏱️ WakaTime Stats (Coding Activity)
 
-<!-- Replace 'your_wakatime_username' with your actual Wakatime username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=github_dark&hide_border=true" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AzharAliCodes&theme=github_dark&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
