@@ -74,13 +74,20 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ## 🚀 Pinned Projects
 
+<!-- 
+## 🚀 Pinned Projects
+
 <p align="center">
-  <a href="https://github.com/AzharAliCodes/your-best-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzharAliCodes&repo=your-best-repo&theme=github_dark&hide_border=true" /></a>
-  <a href="https://github.com/AzharAliCodes/another-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AzharAliCodes&repo=another-repo&theme=github_dark&hide_border=true" /></a>
+  <a href="https://github.com/AzharAliCodes/your-best-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzharAliCodes&repo=your-best-repo&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/AzharAliCodes/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AzharAliCodes&repo=another-repo&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 ---
-
+-->
 ## 🏆 GitHub Trophies
 
 <p align="center">
