@@ -1,6 +1,6 @@
 <!-- Hero Section Start -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Azharuddin+Ali;BCA+Student;MERN+Stack+Developer;Interested+in+AI%2FML;Learning+DSA+in+Java;Python+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Azharuddin+Ali;BCA+Student;MERN+Stack+Developer;Interested+in+AI%2FML;Learning+DSA+in+Java;Python+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
