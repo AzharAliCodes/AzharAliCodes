@@ -127,16 +127,9 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
-## 💡 Fun Fact / Quote
+## 💡 Fun Fact / Joke
 
-<p align="center">
-  <img src="https://www.svgrepo.com/show/13691/light-bulb.svg" alt="Light Bulb" width="40" style="vertical-align:middle;" />
-</p>
-
-<p align="center" style="font-size:1.2em;">
-  <i>“The best way to predict the future is to invent it.”</i><br>
-  <b>– Alan Kay</b>
-</p>
+<p align="center"> </p> <p align="center" style="font-size:1.1em;"> <i>🤓 Why do programmers prefer dark mode?</i><br>Because light attracts bugs! 🐞<br> 😂😂</p>
 
 ---
 
