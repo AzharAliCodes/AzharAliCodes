@@ -66,8 +66,7 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ### 📚 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai&logoColor=white" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
   <img src="https://img.shields.io/badge/DSA-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="DSA" />
 </p>
 
@@ -91,10 +90,6 @@ Let's connect and grow together on this exciting tech journey! 🤝
 ---
 
 ## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AzharAliCodes&style=for-the-badge&color=1A1B27" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AzharAliCodes&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=Azharuddin's+GitHub+Stats" alt="GitHub Stats" width="48%" />
