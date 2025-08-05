@@ -18,11 +18,15 @@ Hello! I'm **Azharuddin Ali**.
 
 I'm a curious and driven individual with a passion for technology and innovation. My journey in computer science is fueled by a love for problem-solving and a desire to make a positive impact through code. 🚀
 
-Currently, I'm sharpening my skills in **Data Structures & Algorithms (DSA) with Java** and diving deep into the world of **Artificial Intelligence using Python**. I believe in continuous learning and enjoy exploring new challenges every day. 📚
+🔭 **Current Focus** <br>
+I’m currently strengthening my skills in the **MERN stack** while learning **Data Structures & Algorithms using Java** side by side to improve my problem-solving abilities.
 
-My future goal is to become an accomplished **AI/ML Engineer**, working on cutting-edge solutions in vibrant places like **Dubai** or **Goa**. 🌍
 
-Let's connect and grow together on this exciting tech journey! 🤝 
+💡 **What Drives Me**<br>
+I love exploring new technologies. During my internship, I had the chance to work with **WordPress**, where I discovered the power of child themes — an amazing experience. I also explored **Frappe**, which gave me hands-on exposure to full-stack development.
+
+🚀 **Next Step**<br>
+Once I’m confident in development, I plan to expand my skills into **AI/ML**, combining logic with creativity to build smarter solutions.
 
 ---
 
