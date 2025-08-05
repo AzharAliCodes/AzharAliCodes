@@ -140,20 +140,9 @@ Let's connect and grow together on this exciting tech journey! 🤝
 
 ---
 
-## ☕ Support Me
+## 🙏 Thanks for Visiting!
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius:10px" />
-  </a>
+  <em>Feel free to explore my work and connect with me!</em>
 </p>
 
-<p align="center">
-  <b>Or support via UPI / PayPal:</b><br>
-  <img src="https://img.shields.io/badge/UPI-donation-blueviolet?style=for-the-badge&logo=google-pay&logoColor=white" alt="UPI" />
-  <img src="https://img.shields.io/badge/PayPal-donation-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Thank You" height="80" />
-</p> 
